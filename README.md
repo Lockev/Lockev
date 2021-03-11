@@ -7,8 +7,8 @@ Both student at <a href="https://www.iim.fr/" target="_blank">IIM</a> and worker
 
 ### Social links bellow ! <img src="https://raw.githubusercontent.com/lockev/lockev/master/assets/point_down.png" width="20px" alt="Pointing down hand emoji">
 
-<a href="https://discord.gg/agNxdG4r" target="_blank">
-  <img align="left" alt="Lockev's professionnal Discord server" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discordapp.com/users/239036209974870017" target="_blank">
+  <img align="left" alt="Lockev's Discord profile" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prigent-guillaume/" target="_blank">
   <img align="left" alt="Lockev's Linked'In profile" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
