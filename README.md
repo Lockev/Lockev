@@ -3,7 +3,7 @@
 ### Who am I ? <img src="https://raw.githubusercontent.com/lockev/lockev/master/assets/thinking.png" width="20px" alt="thinking emoji">
 
 My name's Guillaume, and i'm a backend web developper on his way to become fullstack. <br/>
-Both student at <a href="https://www.iim.fr/" target="_blank">IIM</a> and worker within IP Monstage's group, I work really hard in order to create beautifull and innovative websites.
+Both student at <a href="https://www.iim.fr/" target="_blank">IIM</a> and worker within OSS Ventures startup Studio, I work really hard in order to create both beautifull, usefull and innovative websites.
 
 ### Social links bellow ! <img src="https://raw.githubusercontent.com/lockev/lockev/master/assets/point_down.png" width="20px" alt="Pointing down hand emoji">
 
