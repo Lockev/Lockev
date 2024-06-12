@@ -1,20 +1,13 @@
-## Welcome to my Github profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving hand emoji">
+## Welcome to my Github profile !
 
-### Who am I ? <img src="https://raw.githubusercontent.com/lockev/lockev/master/assets/thinking.png" width="20px" alt="thinking emoji">
+### Who am I ?
 
-My name's Guillaume, and i'm a backend web developper on his way to become fullstack. <br/>
-Both student at <a href="https://www.iim.fr/" target="_blank">IIM</a> and worker within OSS Ventures (startup studio), I work really hard in order to create both beautifull, usefull and innovative websites.
+I'm Guillaume, a french software engineer working in a startup studio named OSS Ventures. I created 11 SaaSes across various spaces in manufacturing.
 
-### Social links bellow ! <img src="https://raw.githubusercontent.com/lockev/lockev/master/assets/point_down.png" width="20px" alt="Pointing down hand emoji">
 
-<a href="https://discordapp.com/users/239036209974870017" target="_blank">
-  <img align="left" alt="Lockev's Discord profile" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/prigent-guillaume/" target="_blank">
-  <img align="left" alt="Lockev's Linked'In profile" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### My socials
 
-<br/>
+[![Discord](/assets/discord.svg)](https://discordapp.com/users/239036209974870017)
+[![LinkedIn](/assets/linkedin.svg)](https://www.linkedin.com/in/prigent-guillaume/)
 
-### Don't forget to check pinned projects ! <img src="https://raw.githubusercontent.com/lockev/lockev/master/assets/point_down.png" width="20px" alt="Pointing down hand emoji"> 
 
